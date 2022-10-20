@@ -1,49 +1,42 @@
 [comment]: # (<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">)
 
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/100642061/192906466-75ba2a25-fe01-47f9-a356-dcba6e0ea75b.gif">
+<img align="right" height="300em" src="https://user-images.githubusercontent.com/115093658/197076137-6f226924-d11a-4883-9124-89301b861073.png">
 
 ### About me 📊
 
-<h6>A Data guy that likes web scraping, animes and apply his knowledge to solve problems.</h6>
-<h6>I'm studying Computer Science at @ <a href="https://www.cruzeirodosul.edu.br/">UNICSUL</a></h6>
-<h6>I'm Data Enginner at @ <a href="https://www.blueshift.com.br/">BLUESHIFT</a></h6>
+<h6>Gosto de desenvolver automações em Python e criar soluções Backend.</h6>
 
 ### How to reach me
 <div>
-   <a href="https://www.linkedin.com/in/gabrielcdev/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
-   <a href="https://www.instagram.com/krd.gabriel/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
+   <a href="" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
+   
 </div>
 
 ### Program Lenguages
 <div>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=green"/>
 </div>
 
 ### Databases & Cloud
 <div>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=green"/>
+
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
-  <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=61DAFB"/>
+  
 </div>
 
 ### Tools / Systems / Frameworks
 <div>
-  <img src="https://img.shields.io/badge/Jupyter-000?&style=for-the-badge&logo=Jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/>
-  <img src="https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=a10d37"/>
-  <img src="https://img.shields.io/badge/power_bi-000.svg?&style=for-the-badge&logo=powerbi&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Flask-000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=Pandas&logoColor=0b3578"/> 
   <img src="https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium&logoColor=76bc2f"/>
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E"/>
+ 
 </div>
 
 ### Github Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcordeiro2&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueiraPy&layout=compact&theme=radical" width="350"/>
 </div>
