@@ -8,7 +8,8 @@
 
 ### How to reach me
 <div>
-   <a href="" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
+   <a href="https://www.linkedin.com/in/fernandonogueirapy/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
+ 
    
 </div>
 
