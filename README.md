@@ -22,7 +22,7 @@
 <div>
 
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=red"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=blue"/>
   
 </div>
 
