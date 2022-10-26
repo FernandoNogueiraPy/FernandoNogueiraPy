@@ -15,7 +15,16 @@
 
 ### Program Lenguages
 <div>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/>
+   
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/> 
+   
+</div>
+
+### Learning...
+<div> 
+   
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow"/> 
+   
 </div>
 
 ### Databases & Cloud
