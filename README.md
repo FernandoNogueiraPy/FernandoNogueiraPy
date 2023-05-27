@@ -17,8 +17,8 @@
 <div>
    
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red"/>
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=green"/> 
    
 </div>
 
