@@ -15,17 +15,6 @@
    
 </div>
 
-
-
-### OS
-<div>
-   
-  <img src="https://img.shields.io/badge/Pop!_OS-000?style=for-the-badge&logo=Pop!_OS&logoColor=blue"/> 
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
-
-
-</div>
-
 ### Program Lenguages
 <div>
    
@@ -72,7 +61,7 @@
   <img src="https://img.shields.io/badge/Git-000.svg?&style=for-the-badge&logo=Git&logoColor=red"/>
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
- 
+  <img src="https://img.shields.io/badge/Pop!_OS-000?style=for-the-badge&logo=Pop!_OS&logoColor=blue"/>  
 </div>
 
 ### Github Stats
