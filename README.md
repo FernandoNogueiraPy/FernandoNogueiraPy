@@ -46,7 +46,7 @@
 ### DevOps & Cloud
 <div>
    
-  <img src="https://img.shields.io/badge/Google_Cloud-00000?style=for-the-badge&logo=google-cloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=black"/>
    
 </div>
 
