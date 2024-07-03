@@ -15,6 +15,17 @@
    
 </div>
 
+
+
+### OS
+<div>
+   
+  <img src="https://img.shields.io/badge/Pop!_OS-000?style=for-the-badge&logo=Pop!_OS&logoColor=blue"/> 
+  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=blue"/>
+
+
+</div>
+
 ### Program Lenguages
 <div>
    
