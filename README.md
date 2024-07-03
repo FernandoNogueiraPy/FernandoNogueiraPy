@@ -40,14 +40,13 @@
 
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=blue"/>
-  https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
   
 </div>
 
 ### DevOps & Cloud
 <div>
    
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=black"/>
    
 </div>
 
