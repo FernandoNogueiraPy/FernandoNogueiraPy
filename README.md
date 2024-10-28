@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red"/>
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=green"/> 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Node.js-00000?style=for-the-badge&logo=node.js&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=green"/>
 
 </div>
 
