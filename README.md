@@ -68,7 +68,7 @@
 ### Github Stats
 <div>
    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueiraPy&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueiraPy&layout=normal&theme=tokyonight" width="350"/>
    
 </div>
 
