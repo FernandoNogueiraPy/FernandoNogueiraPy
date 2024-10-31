@@ -66,7 +66,7 @@
 
 ### Github Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueiraPy&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueiraPy&layout=compact&theme=radical" width="300"/>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandoNogueiraPy&theme=black-ice)](https://git.io/streak-stats)
